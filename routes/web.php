@@ -17,6 +17,27 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
+
+
+
+
+
+
+
+
+
+
 Route::get('/tommaso', function () {
     return view('tommaso');
+});
+
+
+Route::get('/Al', function () {
+    return view('Al');
+});
+
+Route::get('/luca', function () {
+    return view('luca');
+
 });
