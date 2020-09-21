@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ciao ragazzi
+                    ciao da Al!
                 </div>
 
                 <div class="links">
