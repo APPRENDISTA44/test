@@ -17,16 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-
-
-
-
-
-
-
-
-
+Route::get('/linda', function () {
+    return view('linda');
+});
 
 Route::get('/tommaso', function () {
     return view('tommaso');
@@ -39,5 +32,6 @@ Route::get('/Al', function () {
 
 Route::get('/luca', function () {
     return view('luca');
+
 
 });
